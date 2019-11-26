@@ -1,0 +1,5 @@
+com\metadata\app\config\MongoDBConfiguration.class
+com\metadata\app\model\Identifier.class
+com\metadata\app\model\Person.class
+com\metadata\app\model\Ssn.class
+com\metadata\app\Application.class
